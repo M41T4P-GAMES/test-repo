@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://d16rc67h4lop6"]
 
 [ext_resource type="Texture2D" uid="uid://lplmg4tpwna6" path="res://Assets/Textures/icon.svg" id="1_bo1nx"]
-[ext_resource type="Script" uid="uid://cjjvif4vlmb47" path="res://Scripts/sprite_2d.gd" id="1_jjgbg"]
+[ext_resource type="Script" uid="uid://cn2ggt3cajs7f" path="res://Scripts/sprite_2d.gd" id="1_jjgbg"]
 
 [node name="Main" type="Node2D" unique_id=1012783939]
 
